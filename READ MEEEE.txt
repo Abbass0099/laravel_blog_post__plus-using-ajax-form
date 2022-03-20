@@ -1,0 +1,2 @@
+- run comoser update
+- run npm install
